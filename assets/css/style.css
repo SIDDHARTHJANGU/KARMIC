@@ -503,7 +503,7 @@ p {
 .line-1:after {
   content: "";
   display: block;
-  width: 200px;
+  width: 170px;
   height: 2px;
   background: black !important;
   right: 29%;
@@ -514,7 +514,7 @@ p {
 .line-2:before {
   content: "";
   display: block;
-  width: 200px;
+  width: 170px;
   height: 2px;
   background: white;
   right: 19%;
@@ -525,7 +525,7 @@ p {
 .line-2:after {
   content: "";
   display: block;
-  width: 200px;
+  width: 170px;
   height: 2px;
   background: white !important;
   right: 28%;
