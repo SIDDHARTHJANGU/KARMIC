@@ -26,6 +26,9 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+.nav_link:hover {
+  -webkit-text-stroke: 1px;
+}
 .z-30 {
   z-index: 30;
 }
